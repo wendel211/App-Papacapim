@@ -67,7 +67,7 @@ Passo a passo para rodar o projeto
 Clone este repositório:
 bash
 Copiar código
-git clone https://github.com/SeuUsuario/papacapim.git
+git clone https://github.com/wendel211/App-Papacapim.git
 Navegue até o diretório do projeto:
 bash
 Copiar código
