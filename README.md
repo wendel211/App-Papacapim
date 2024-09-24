@@ -1,5 +1,6 @@
 
-O projeto Papacapim (versão front-end) foi desenvolvido com foco em simplicidade e escalabilidade, utilizando tecnologias modernas que permitem fácil manutenção e futuras expansões. As principais ferramentas utilizadas são:
+## O projeto Papacapim (versão front-end) 
+Foi desenvolvido com foco em simplicidade e escalabilidade, utilizando tecnologias modernas que permitem fácil manutenção e futuras expansões. As principais ferramentas utilizadas são:
 
 - **React Native**: Escolhido por sua capacidade de criar aplicações mobile nativas usando uma única base de código JavaScript. Isso facilita o desenvolvimento para plataformas Android e iOS simultaneamente.
   
