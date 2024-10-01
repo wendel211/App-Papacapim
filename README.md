@@ -3,9 +3,6 @@
 Foi desenvolvido com foco em simplicidade e escalabilidade, utilizando tecnologias modernas que permitem fácil manutenção e futuras expansões. As principais ferramentas utilizadas são:
 
 - **React Native**: Escolhido por sua capacidade de criar aplicações mobile nativas usando uma única base de código JavaScript. Isso facilita o desenvolvimento para plataformas Android e iOS simultaneamente.
-  
-Papacapim - Rede Social (Versão Inicial)
-Este repositório contém a versão inicial do aplicativo Papacapim, uma rede social inspirada no Twitter, desenvolvida como parte da disciplina de Desenvolvimento Mobile. Nesta versão, o projeto contém apenas o Design da Interface (Parte 1), sem integração com a API, utilizando dados criados pelo Figma para prototipação.
 
 ## Tecnologias Utilizadas
 Nesta seção, detalhamos as principais tecnologias utilizadas no desenvolvimento do front-end do Papacapim e por que elas foram escolhidas para essa etapa do projeto.
